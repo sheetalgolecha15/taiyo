@@ -1,7 +1,7 @@
 # taiyo
 Covid Cases Analysis
 
-Here the test csv file are present in archive folder.
+Here the test csv file are present in covid_Cases.zip folder .
 Coronavirus_cases_daily_update: has the transaction data
 owid_covid_codebook: has the metadata
 
